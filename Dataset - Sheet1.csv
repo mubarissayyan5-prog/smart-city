@@ -1,0 +1,201 @@
+place_id,place_name,category,avg_rating,price_level,crowd_level,best_time,family_friendly
+1,Panambur Beach,Beach,4.8,Low,Hign,"Morning,Evening",Yes
+2,Tannirbhavi Beach,Beach,4.5,Low,HIgh,"Morning,Evening",Yes
+3,Someshwara Beach,Beach,4.6,Low,Medium,"Morning,Evening",Yes
+4,Ullal Beach,Beach,3,Low,Low,"Morning,Evening",No
+5,Bengre Beach,Beach,3.2,Medium,Medium,"Morning,Evening",Yes
+6,Hosabettu Beach,Beach,3.5,High,Low,"Morning,Evening",No
+7,Sasihithlu Beach,Beach,4,Medium,Medium,"Morning,Evening",Yes
+8,Surathkal Beach ,Beach,5,High,High,"Morning,Evening",Yes
+9,NITK Beach,Beach,2.9,Medium,Low,"Morning,Evening",Yes
+10,Hejamadi Beach,Beach,2.5,Low,Low,"Morning,Evening",No
+11,Padubidri Beach,Beach,2.4,Low,Low,"Morning,Evening",No
+12,"Kaup Beach ",Beach,3.1,Low,High,"Morning,Evening",No
+13,"Kodi Bengre Beach ",Beach,3,Medium,Medium,"Morning,Evening",Yes
+14,Mukka Beach ,Beach,3.6,Medium,Medium,"Morning,Evening",Yes
+15,"Baikampady Beach ",Beach,4,High,Low,"Morning,Evening",No
+16,"Kulai Beach ",Beach,3.8,Medium,Low,"Morning,Evening",No
+17,"Mulki Beach ",Beach,4,High,Medium,"Morning,Evening",Yes
+18,"Shambhavi Estuary Beach ",Beach,2,Low,High,"Morning,Evening",Yes
+19,Thannirbhavi Tree Park Beach ,Beach,5,High,Low,Anytime,Yes
+20,"New Mangalore Port Beach ",Beach,3.5,Low,Low,"Morning,Evening",No
+21,"Kadri Manjunatha Temple ",Temple,4.8,Low,High,"Morning,Evening",Yes
+22,"Mangaladevi Temple ",Temple,4,Low,Medium,"Morning,Evening",Yes
+23,Kudroli Gokarnanath Temple ,Temple,4.2,Low,High,"Morning,Evening",Yes
+24,Sharavu Mahaganapathi Temple ,Temple,4.5,Low,Medium,"Morning,Evening",Yes
+25,Polali Rajarajeshwari Temple,Temple,4.6,Low,Low,"Morning,Evening",Yes
+26,Kateel Durga Parameshwari Temple ,Temple,4.8,Low,High,"Morning,Evening",Yes
+27,"Sri Venkataramana Temple ",Temple,4,Low,Low,"Morning,Evening",Yes
+28,Sri Krishna Temple Car Street ,Temple,4.5,Low,Medium,"Morning,Evening",Yes
+29,Sri Mahamaya Temple,Temple,4.5,Low,Medium,"Morning,Evening",Yes
+30,"Surathkal Sadashiva Temple ",Temple,4.1,Low,High,"Morning,Evening",Yes
+31,"Ullal Someshwara Temple ",Temple,4.3,Low,Low,"Morning,Evening",Yes
+32,"Ramakrishna Math Temple ",Temple,4.5,Low,Medium,"Morning,Evening",Yes
+33,"Bappanadu Temple ",Temple,4.6,Low,Low,"Morning,Evening",Yes
+34,"Adyapadi Temple ",Temple,5,Low,Medium,"Morning,Evening",Yes
+35,"Kotekar Temple ",Temple,4,Low,High,"Morning,Evening",Yes
+36,"Kalladka Temple ",Temple,5,Low,Medium,"Morning,Evening",Yes
+37,"Valachil Rajarajeshwari Temple ",Temple,4.9,Low,Low,"Morning,Evening",Yes
+38,"Car Street Ganapathi Temple ",Temple,5,Low,Medium,"Morning,Evening",Yes
+39,"Kadri Hill Temple ",Temple,5,Low,High,"Morning,Evening",Yes
+40,"Kudupu Temple ",Temple,4.8,Low,Low,"Morning,Evening",Yes
+41,"Pabbas Ice Cream ",Restaurant,5,Low,Medium,Anytime,Yes
+42,Ideal Café,Restaurant,4.5,Medium,High,Anytime,Yes
+43,Giri Manja’s,Restaurant,4,High,High,Anytime,Yes
+44,Machali,Restaurant,4.8,High,High,Anytime,Yes
+45,Hotel Narayana,Restaurant,4.6,High,High,Anytime,Yes
+46,Maharaja Restaurant,Restaurant,4,Medium,Medium,Anytime,Yes
+47,Shetty Lunch Home,Restaurant,3.9,Medium,Medium,Anytime,Yes
+48,Pallkhi Restaurant,Restaurant,3.2,Medium,Medium,Anytime,Yes
+49,Village Restaurant,Restaurant,3,Medium,Low,Anytime,Yes
+50,Naivedyam,Restaurant,2.9,Low,Medium,Anytime,Yes
+51,Kudla Restaurant,Restaurant,3.5,Low,Medium,Anytime,Yes
+52,Ocean Pearl Restaurant,Restaurant,3.8,Medium,Medium,Anytime,Yes
+53,Brick House Restaurant,Restaurant,4,Medium,Medium,Anytime,Yes
+54,Sizzler Ranch,Restaurant,4.2,Medium,Low,Anytime,Yes
+55,Asian Patio,Restaurant,4.4,Medium,Low,Anytime,Yes
+56,Hao Ming,Restaurant,4.1,Medium,Low,Anytime,Yes
+57,Juice Romantic,Restaurant,4,Medium,Low,Anytime,Yes
+58,Natural Ice Cream,Restaurant,5,Low,Medium,Anytime,Yes
+59,"Diesel Café Kitchen ",Restaurant,2.5,Low,Low,Anytime,Yes
+60,Coffee Break Food Court,Restaurant,3,Low,Medium,Anytime,Yes
+61,Kadri Park,Park,4.5,Medium,Medium,"Morning,Evening",Yes
+62,Pilikula Nisargadhama,Park,4.6,Medium,Medium,"Morning,Evening",Yes
+63,Tagore Park,Park,4,Low,Low,"Morning,Evening",Yes
+64,Mahatma Gandhi Park,Park,4.3,Medium,Medium,"Morning,Evening",Yes
+65,Sultan Ba ery Garden,Park,3.9,Low,Low,"Morning,Evening",Yes
+66,Pilikula Zoo Park,Park,3.5,Medium,High,"Morning,Evening",Yes
+67,Pilikula Lake Park,Park,3.6,Medium,Low,"Morning,Evening",Yes
+68,Tannirbhavi Tree Park,Park,4,Low,Low,"Morning,Evening",Yes
+69,Mangala Stadium Park,Park,4.7,Low,Medium,"Morning,Evening",Yes
+70,Gujjarakere Park,Park,4.6,Medium,Low,"Morning,Evening",Yes
+71,Kadri Hill Park,Park,4,Medium,Medium,"Morning,Evening",Yes
+72,Bolar Park Area,Park,5,Low,Medium,"Morning,Evening",Yes
+73,Ullal River Park,Park,5,Low,Low,"Morning,Evening",Yes
+74,"Panambur Beach Park ",Park,4.8,Medium,Medium,"Morning,Evening",Yes
+75,"Surathkal Beach Park ",Park,4.9,Medium,High,"Morning,Evening",Yes
+76,"NITK Green Campus ",Park,3.5,Low,Low,"Morning,Evening",Yes
+77,"Kulai Mangrove Park ",Park,4,Medium,Medium,"Morning,Evening",Yes
+78,"City Local Park Lalbagh Area ",Park,5,Medium,Medium,"Morning,Evening",Yes
+79,"Bejai Park ",Park,4.5,Low,Low,"Morning,Evening",Yes
+80,"Bondel Park ",Park,4.6,Medium,Low,"Morning,Evening",Yes
+81,"City Centre Mall ",Mall,4.9,High,High,Anytime,Yes
+82,"Forum Fiza Mall ",Mall,5,High,High,Anytime,Yes
+83,"Bharath Mall ",Mall,4.5,High,High,Anytime,Yes
+84,"Empire Mall ",Mall,4.5,High,Medium,Anytime,Yes
+85,Attavar Shopping Complex ,Mall,4,Medium,Medium,Anytime,Yes
+86,Kankanady Market Complex,Mall,3.9,Medium,Medium,Anytime,Yes
+87,"Central Market Mangalore ",Mall,3.5,Low,High,Anytime,Yes
+88,"KS Rao Road Shopping Area ",Mall,4,Medium,Medium,Anytime,Yes
+89,"Car Street Shopping Area ",Mall,4,High,Medium,Anytime,Yes
+90,Hampankata Shopping Area ,Mall,3.9,Medium,Medium,Anytime,Yes
+91,Falnir Shopping Complex,Mall,3,Medium,Medium,Anytime,Yes
+92,Balmatta Commercial Complex,Mall,3.2,Medium,Medium,Anytime,Yes
+93,Pandeshwar Shopping Area ,Mall,3.1,Low,Medium,Anytime,Yes
+94,"Bejai Shopping Complex ",Mall,3.5,Low,Medium,Anytime,Yes
+95,Surathkal Market,Mall,3.5,Medium,High,Anytime,Yes
+96,"Ullal Market Complex ",Mall,4,Medium,High,Anytime,Yes
+97,"Kulai Shopping Area ",Mall,3.6,Medium,Medium,Anytime,Yes
+98,"Bondel Commercial Area ",Mall,3,Low,Medium,Anytime,Yes
+99,"Lalbagh Market Area ",Mall,3.5,High,High,Anytime,Yes
+100,"Kadri Commercial Complex ",Mall,4,Medium,High,Anytime,Yes
+101,Diesel Café,Cafe,3.5,Low,Low,Anytime,Yes
+102,Coffee Break,Cafe,3.7,Medium,Medium,Anytime,Yes
+103,"Buco Café ",Cafe,4,Medium,Low,Anytime,Yes
+104,"Brick House Café ",Cafe,3.9,Medium,Medium,Anytime,Yes
+105,"Froth on Top ",Cafe,3.8,High,Low,Anytime,Yes
+106,The Good Galette ,Cafe,4,Medium,Medium,Anytime,Yes
+107,Cafe Flourista ,Cafe,4.6,High,Medium,Anytime,Yes
+108,"Cafe 17 ",Cafe,4.5,Low,Medium,Anytime,Yes
+109,Mangalore Baking Company ,Cafe,4.8,Medium,Medium,Anytime,Yes
+110,"Cafe Mojo ",Cafe,3.6,Low,Low,Anytime,Yes
+111,Cafe Coffee Day (multiple) ,Cafe,4.2,Medium,Medium,Anytime,Yes
+112,"Barista Café ",Cafe,4.5,Medium,Low,Anytime,Yes
+113,Starbucks Mangalore,Cafe,4.5,High,Medium,Anytime,Yes
+114,Cafe Coffee Day Kankanady,Cafe,3.8,Medium,High,Anytime,Yes
+115,Cafe Coffee Day Hampankata ,Cafe,3.5,Medium,High,Anytime,Yes
+116,Little Green Cafe ,Cafe,4,Medium,Low,Anytime,Yes
+117,Juice Junction Cafe ,Cafe,4.1,Low,High,Anytime,Yes
+118,"Urban House Cafe ",Cafe,4.2,Low,Medium,Anytime,Yes
+119,"Chai Point Mangalore ",Cafe,4,Medium,Medium,Anytime,Yes
+120,"Tea Trails Cafe ",Cafe,4.4,Medium,Low,Anytime,Yes
+121,The Ocean Pearl ,Hotel,4.8,High,Low,Anytime,Yes
+122,Vivanta Mangalore,Hotel,4.5,Medium,medium,Anytime,Yes
+123,AJ Grand Hotel,Hotel,4.6,High,Low,Anytime,Yes
+124,Goldfinch Hotel,Hotel,4,High,Low,Anytime,Yes
+125,Hotel MotiMahal,Hotel,4,Medium,Medium,Anytime,Yes
+126,Hotel Deepa Comforts,Hotel,4.2,Medium,Medium,Anytime,Yes
+127,Hotel Prestige ,Hotel,4.2,Medium,Medium,Anytime,Yes
+128,Hotel Surya,Hotel,4.1,Medium,Medium,Anytime,Yes
+129,Hotel Poonja International ,Hotel,4.6,Medium,Medium,Anytime,Yes
+130,Hotel Srinivas,Hotel,3.9,Medium,High,Anytime,Yes
+131,Hotel Kumars International,Hotel,4.1,High,Medium,Anytime,Yes
+132,Hotel Maurya,Hotel,3.5,Medium,Medium,Anytime,Yes
+133,Hotel Woodside,Hotel,4.8,High,Low,Anytime,Yes
+134,"Hotel Plaza ",Hotel,3.5,Medium,Medium,Anytime,Yes
+135,Hotel Citywalk Residency,Hotel,4.7,High,Low,Anytime,Yes
+136,Hotel Metro Plaza,Hotel,4.8,High,Low,Anytime,Yes
+137,Hotel Naveen,Hotel,3.7,Medium,Medium,Anytime,Yes
+138,Hotel Shoolin Grand,Hotel,4.7,Medium,Medium,Anytime,Yes
+139,Hotel Sai Palace,Hotel,4.9,High,Low,Anytime,Yes
+140,Hotel Crown Residency,Hotel,5,High,Low,Anytime,Yes
+141,Sultan Battery,Tourist Place ,4.5,Medium,Medium,"Morning,Evening",Yes
+142,St. Aloysius Chapel,Tourist Place ,4,Medium,Medium,"Morning,Evening",Yes
+143,Bejai Museum,Tourist Place ,4.8,Medium,Low,"Morning,Evening",Yes
+144,Pilikula Heritage Village,Tourist Place ,4.9,Low,Low,"Morning,Evening",Yes
+145,Old Port Mangalore,Tourist Place ,3.5,Medium,Low,"Morning,Evening",Yes
+146,Kadri Hills,Tourist Place ,4.6,Medium,Medium,"Morning,Evening",Yes
+147,Light House Hill,Tourist Place ,3.8,Low,Low,"Morning,Evening",Yes
+148,Tannirbhavi Tree Park View,Tourist Place ,4.8,Low,Medium,"Morning,Evening",Yes
+149,Surathkal Lighthouse,Tourist Place ,3.9,Low,Low,"Morning,Evening",Yes
+150,Kaup Lighthouse,Tourist Place ,4,Low,Low,"Morning,Evening",Yes
+151,Ullal Dargah,Tourist Place ,4.9,Low,High,"Morning,Evening",Yes
+152,Rosario Cathedral,Tourist Place ,4.9,Low,Medium,"Morning,Evening",Yes
+153,Milagres Church,Tourist Place ,4.5,Low,High,"Morning,Evening",Yes
+154,Infant Jesus Shrine,Tourist Place ,4.6,Low,High,"Morning,Evening",Yes
+155,Mangala Stadium,Tourist Place ,4.7,Medium,High,"Morning,Evening",Yes
+156,NITK Campus View,Tourist Place ,5,Medium,Medium,"Morning,Evening",Yes
+157,Pilikula Golf Course,Tourist Place ,5,Medium,Medium,"Morning,Evening",Yes
+158,Shree Gokarnanatheshwara Temple Area,Tourist Place ,4.8,Medium,High,"Morning,Evening",Yes
+159,Panambur Port Area ,Tourist Place ,3.8,Low,Low,"Morning,Evening",Yes
+160,New Mangalore Port,Tourist Place ,3.7,Low,Low,"Morning,Evening",Yes
+161,PVR Cinemas,Entertainment,4.5,Medium,Medium,Anytime,Yes
+162,Cinepolis Forum Mall,Entertainment,4.6,Medium,Medium,Anytime,Yes
+163,Bharath Cinemas,Entertainment,4.5,Medium,Medium,Anytime,Yes
+164,INOX,Entertainment,4,Medium,Medium,Anytime,Yes
+165,Game Zone City Centre,Entertainment,3.9,High,Medium,Anytime,Yes
+166,Fun City Mall,Entertainment,3.5,High,Medium,Anytime,Yes
+167,Timezone Gaming,Entertainment,4.2,High,Medium,Anytime,Yes
+168,Bowling Arena (Mall),Entertainment,4.1,High,Medium,Anytime,Yes
+169,VR Gaming Zone,Entertainment,4,High,Medium,Anytime,Yes
+170,Kids Play Zone Forum Mall,Entertainment,5,High,Medium,Anytime,Yes
+171,Snow World ,Entertainment,5,High,Medium,Anytime,Yes
+172,Water Games Panambur,Entertainment,5,Medium,High,Anytime,Yes
+173,Beach Water Sports Panambur,Entertainment,5,High,High,Anytime,Yes
+174,Surfing Sasihithlu,Entertainment,5,Medium,Medium,Anytime,Yes
+175,Pilikula Boating,Entertainment,4.9,Medium,Medium,Anytime,Yes
+176,"Kayaking Mulki ",Entertainment,4.9,Medium,Medium,Anytime,Yes
+177,Adventure Club Mangalore,Entertainment,4.7,Medium,High,Anytime,Yes
+178,Cycling Track Pilikula,Entertainment,4.3,Low,Low,Anytime,Yes
+179,Go Karting Track (local),Entertainment,4.4,Medium,Low,Anytime,Yes
+180,Event Grounds TMA Pai Hall,Entertainment,4,High,Medium,Anytime,Yes
+181,Mangalore Central Railway Station,Landmark,4.8,Low,High,Anytime,Yes
+182,Mangalore Junction Railway Station,Landmark,4.8,Low,High,Anytime,Yes
+183,KSRTC Bus Stand,Landmark,4,Low,High,Anytime,Yes
+184,State Bank Area,Landmark,5,Low,High,Anytime,Yes
+185,Hampankatta Junction,Landmark,4.8,Low,High,Anytime,Yes
+186,Kankanady Junction,Landmark,4.5,Low,High,Anytime,Yes
+187,Lalbagh Junction,Landmark,4.3,Low,High,Anytime,Yes
+188,Bejai Junction,Landmark,4.2,Low,High,Anytime,Yes
+189,Surathkal Junction,Landmark,4,Low,High,Anytime,Yes
+190,Ullal Bridge Area,Landmark,3.9,Low,High,Anytime,Yes
+191,Nanthoor Circle,Landmark,3.6,Low,High,Anytime,Yes
+192,Pumpwell Circle,Landmark,3.8,Low,High,Anytime,Yes
+193,Falnir Junction,Landmark,3.9,Low,High,Anytime,Yes
+194,Kadri Circle,Landmark,4,Low,High,Anytime,Yes
+195,Bondel Junction,Landmark,4,Low,High,Anytime,Yes
+196,Kuloor Bridge,Landmark,3.5,Low,High,Anytime,Yes
+197,Baikampady Industrial Area,Landmark,4,Low,High,Anytime,Yes
+198,New Mangalore Port Gate,Landmark,3.9,Low,High,Anytime,Yes
+199,Mangalore Airport,Landmark,5,Low,High,Anytime,Yes
+200,City Clock Tower,Landmark,4.5,Low,High,Anytime,Yes
